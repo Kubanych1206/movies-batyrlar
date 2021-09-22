@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/movies-batyrlar/static/css/main.471ae397.chunk.css",
+    "main.js": "/movies-batyrlar/static/js/main.30b74ab7.chunk.js",
+    "main.js.map": "/movies-batyrlar/static/js/main.30b74ab7.chunk.js.map",
+    "runtime-main.js": "/movies-batyrlar/static/js/runtime-main.4dd63ba5.js",
+    "runtime-main.js.map": "/movies-batyrlar/static/js/runtime-main.4dd63ba5.js.map",
+    "static/js/2.444d0a6c.chunk.js": "/movies-batyrlar/static/js/2.444d0a6c.chunk.js",
+    "static/js/2.444d0a6c.chunk.js.map": "/movies-batyrlar/static/js/2.444d0a6c.chunk.js.map",
+    "index.html": "/movies-batyrlar/index.html",
+    "static/css/main.471ae397.chunk.css.map": "/movies-batyrlar/static/css/main.471ae397.chunk.css.map",
+    "static/js/2.444d0a6c.chunk.js.LICENSE.txt": "/movies-batyrlar/static/js/2.444d0a6c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dd63ba5.js",
+    "static/js/2.444d0a6c.chunk.js",
+    "static/css/main.471ae397.chunk.css",
+    "static/js/main.30b74ab7.chunk.js"
+  ]
+}
