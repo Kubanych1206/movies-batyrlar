@@ -1,0 +1,39 @@
+.parent {
+    width: 1349px;
+    margin: auto;
+    padding: auto;
+    color: rgb(187, 224, 21);
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 30px;
+    background-color: rgba(100, 102, 94, 0.863);
+}
+
+.child1{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+}
+
+.child2{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 200px;
+}
+
+li{
+    list-style: none;
+    margin-left: 15px;
+}
+
+button {
+    width: 150px;
+    height: 50px;
+    background-color: rgb(39, 180, 223);
+    border: none;
+    color: rgb(251, 251, 251);
+    margin-left: 10px;
+    border-radius: 10px;
+}

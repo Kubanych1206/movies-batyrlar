@@ -1,0 +1,11 @@
+.containerHome { 
+    width: 1349px;
+    margin: auto;
+    padding: auto;
+    
+}
+.boxmap { 
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
